@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Universidad\\Tesis\\Desarrollo\\Backend\\AuditService\\AuditService.csproj": {}
+    "D:\\Universidad\\Tesis\\Desarrollo\\Todo\\Version05\\AuditService\\AuditService.csproj": {}
   },
   "projects": {
-    "D:\\Universidad\\Tesis\\Desarrollo\\Backend\\AuditService\\AuditService.csproj": {
+    "D:\\Universidad\\Tesis\\Desarrollo\\Todo\\Version05\\AuditService\\AuditService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Universidad\\Tesis\\Desarrollo\\Backend\\AuditService\\AuditService.csproj",
+        "projectUniqueName": "D:\\Universidad\\Tesis\\Desarrollo\\Todo\\Version05\\AuditService\\AuditService.csproj",
         "projectName": "AuditService",
-        "projectPath": "D:\\Universidad\\Tesis\\Desarrollo\\Backend\\AuditService\\AuditService.csproj",
+        "projectPath": "D:\\Universidad\\Tesis\\Desarrollo\\Todo\\Version05\\AuditService\\AuditService.csproj",
         "packagesPath": "C:\\Users\\ginno\\.nuget\\packages\\",
-        "outputPath": "D:\\Universidad\\Tesis\\Desarrollo\\Backend\\AuditService\\obj\\",
+        "outputPath": "D:\\Universidad\\Tesis\\Desarrollo\\Todo\\Version05\\AuditService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
